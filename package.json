@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Monzonprog/curso_node_06_webserver/issues"
   },
-  "homepage": "https://github.com/Monzonprog/curso_node_06_webserver#readme"
+  "homepage": "https://github.com/Monzonprog/curso_node_06_webserver#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
